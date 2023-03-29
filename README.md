@@ -1,7 +1,7 @@
 <h1 align="center">General Mathematics</h1>
 
 ## Features 
-- Tons of apps & games
+- lawnstu.github.io
 - History hider (About:Blank Cloak)
 - Sleek UI with good animations
 - Tab cloaker
